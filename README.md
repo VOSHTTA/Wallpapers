@@ -1,0 +1,6 @@
+<!-- index.html -->
+<html>
+<body>
+<h1>Hello GitHub Pages!</h1>
+</body>
+</html>
